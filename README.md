@@ -1,10 +1,10 @@
-## 📖 Overview
+## Overview
 
 This project leverages oneM2M standards to develop a noise cancellation system that mitigates unwanted noise in everyday life. By integrating advanced sensor technologies and smart applications, our system enhances user comfort and improves quality of life.
 
 <br/>
 
-## 🚀 Features
+## Features
 
 - **Real-time Noise Detection**: Monitors and detects noise levels in the environment.
 
@@ -18,7 +18,7 @@ This project leverages oneM2M standards to develop a noise cancellation system t
 
 <br/>
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── /docs            # Documentation
@@ -28,7 +28,7 @@ This project leverages oneM2M standards to develop a noise cancellation system t
 
 <br/>
 
-## ⚙️ System Components
+## System Components
 
 1. **Noise Detection Sensor**
    <br/> Detects and quantifies noise levels.
@@ -47,14 +47,14 @@ This project leverages oneM2M standards to develop a noise cancellation system t
 
 <br/>
 
-## 📖 Documentation
+## Documentation
 
 Detailed documentation can be found here.
 (TODO: hyperlink)
 
 <br/>
 
-## Team
+## Team Members
 
 - **Architecture Design & Development**: Wooyoung Son, Jungmin Lee
 - **Document & Reviewer**: Sujin Hwang, Seunghye Baek
