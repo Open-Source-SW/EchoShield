@@ -1,19 +1,66 @@
-# EchoShield
-A system that uses IoT sensors to measure the frequency and volume of noise entering or exiting a room in real-time and generates sound with an opposing phase to cancel out the noise.
+## Overview
+
+This project leverages oneM2M standards to develop a noise cancellation system that mitigates unwanted noise in everyday life. By integrating advanced sensor technologies and smart applications, our system enhances user comfort and improves quality of life.
+
+<br/>
 
 ## Features
-TODO
 
-## Use Case
-TODO
+- **Real-time Noise Detection**: Monitors and detects noise levels in the environment.
 
+- **Smart Noise Cancellation**: Uses speakers and smart algorithms to actively cancel unwanted noise.
+
+- **Seamless Integration with oneM2M**:
+  Provides compatibility with oneM2M standards for IoT devices.
+
+- **Cross-Device Support**:
+  Works with gateways, smartphones, and other smart devices.
+
+<br/>
+
+## Project Structure
+
+```
+├── /docs            # Documentation
+... TODO
+└── README.md        # Project overview
+```
+
+<br/>
+
+## System Components
+
+1. **Noise Detection Sensor**
+   <br/> Detects and quantifies noise levels.
+
+2. **Noise Canceling Speaker**
+   <br/> Emits anti-noise to cancel detected noise.
+
+3. **Echo Shield Gateway**
+   <br/> Manages resources and processes real-time noise cancellation.
+
+4. **Cloud Service**
+   <br/> Uses appropriate adaptive algorithms or calculates the average noise level.
+
+5. **Smartphone Application**
+   Provides a user interface to control and monitor the system.
+
+<br/>
+
+## Documentation
+
+Detailed documentation can be found here.
+(TODO: hyperlink)
+
+<br/>
 
 ## Team Members
+
 - **Architecture Design & Development**: Wooyoung Son, Jungmin Lee
 - **Document & Reviewer**: Sujin Hwang, Seunghye Baek
-  
+
+<br/>
 
 ## Project Timeline
-![WBS](https://github.com/user-attachments/assets/0697d309-1969-4ed8-a673-82e977bd0795)
 
-
+![WBS](./WBS.png)
