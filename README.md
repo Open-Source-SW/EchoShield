@@ -22,8 +22,15 @@ This project leverages oneM2M standards to develop a noise cancellation system t
 
 ```
 ├── /docs            # Documentation
-... TODO
+├── /entity
+      ├── /IN-CSE    # oneM2M gateway
+      ├── /MN-CSE    # oneM2M cloud service
 └── README.md        # Project overview
+```
+
+```
+git submodule init
+git submodule update
 ```
 
 <br/>
