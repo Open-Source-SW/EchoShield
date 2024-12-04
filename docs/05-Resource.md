@@ -2,7 +2,7 @@
 
 ### MN-CSE
 
-<img src="./img/05-resource-MN-CSE.png" alt="Example Image" width="180px" height="200px">
+<img src="./img/05-resource-MN-CSE.png" alt="Example Image" width="180px" height="220px">
 
 <br/>
 <br/>
