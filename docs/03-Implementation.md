@@ -10,4 +10,4 @@
 - **Application function**:
   - **Noise Data Collection**: Collect noise data using a noise detection sensor in real-time.
   - **Anti-phase Signal Generation**: Analyze the input data to generate an anti-phase signal and cancel the noise through the speaker.
-  - **Data Analysis**: Calculate the average noise level or analyze long-term patterns to update the noise reduction algorithm.
+  - **Noise cancellation time control**:
