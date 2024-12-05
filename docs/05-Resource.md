@@ -17,7 +17,7 @@
 
 # Control Noise Cancellation Time
 
-<img src="./img/05-resource-IN-AE-to-ADN-AE.png" alt="Example Image" width="1000px" height="350px">
+<img src="./img/05-resource-IN-AE-to-ADN-AE.png" alt="Example Image" width="800px" height="350px">
 
 1. The user requests noise cancellation for a specific time period.
 2. The cloud service saves the user-defined time period as a resource.
