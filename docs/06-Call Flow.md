@@ -2,7 +2,7 @@
 
 ### Registration
 
-![registration](./img/06-registration.png)
+
 **Registration**: Register the Noise Detection Application, Speaker Application, Gateway Application, and Smartphone Application.
 
 <br/>
