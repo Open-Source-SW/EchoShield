@@ -80,7 +80,7 @@ def notification():
         data = request.json 
         con = json.loads(data["m2m:sgn"]["nev"]["rep"]["m2m:cin"]["con"])
         status = con.get("status")
-        if status == "START":
+        if status == "start":
             if not speaker_active:
                 print(f"{TextStyles.BOLD}{TextStyles.GREEN}[INFO] Speaker is now being activated.{TextStyles.RESET}")
                 speaker_active = True
@@ -88,7 +88,7 @@ def notification():
                 speaker_thread.start()
             else:
                 print("[INFO] Speaker is already active.")
-        elif status == "STOP":
+        elif status == "stop":
             if speaker_active:
                 print(f"{TextStyles.BOLD}{TextStyles.RED}[INFO] Speaker is now being deactivated.{TextStyles.RESET}")
                 speaker_active = False
