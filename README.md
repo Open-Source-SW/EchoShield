@@ -63,6 +63,27 @@ Detailed documentation can be found [here](https://github.com/Open-Source-SW/Ech
 
 <br/>
 
+# Run
+
+- `ADN-AE` :
+  - ADN-AE-1(Noise Detection Sensor):
+    ```
+    cd entity/ADN-AE-1
+    python3 sensor.py
+    ```
+  - ADN-AE-2(Noise Cancellation Speaker):
+    ```
+    cd entity/ADN-AE-2
+    python3 speaker.py
+    ```
+- `MN-AE`
+  ```
+  cd MN-AE
+  python3 processor.py
+  ```
+- `MN-CSE`: check [README.install.md](https://github.com/Open-Source-SW/ACME-gateway/blob/feature/MN-CSE/README.install.md)
+- `IN-CSE`: check [README.install.md](https://github.com/Open-Source-SW/ACME-cloud/blob/1cf80c2c9cfa6e0c92183b868dd23295c88e436b/REDME.install.md)
+
 ## Team Members
 
 - **Architecture Design & Development**: Wooyoung Son, Jungmin Lee
