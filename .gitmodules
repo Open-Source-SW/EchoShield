@@ -1,0 +1,8 @@
+[submodule "entity/IN-CSE"]
+	path = entity/IN-CSE
+	url = https://github.com/Open-Source-SW/ACME-cloud.git
+	branch = feature/IN-CSE
+[submodule "entity/MN-CSE"]
+	path = entity/MN-CSE
+	url = https://github.com/Open-Source-SW/ACME-gateway.git
+	branch = feature/MN-CSE
