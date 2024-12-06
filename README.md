@@ -88,7 +88,7 @@ Detailed documentation can be found [here](https://github.com/Open-Source-SW/Ech
 
 ## Team Members
 
-- **Architecture Design & Development**: Wooyoung Son, Jungmin Lee
+- **Architecture Design & Development**: Wooyoung Son, Jungmin Lee, Sujin Hwang
 - **Document & Reviewer**: Sujin Hwang, Seunghye Baek
 
 <br/>
