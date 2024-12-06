@@ -25,6 +25,9 @@ This project leverages oneM2M standards to develop a noise cancellation system t
 ├── /entity
       ├── /IN-CSE    # oneM2M gateway
       ├── /MN-CSE    # oneM2M cloud service
+      ├── /MN-AE
+      ├── /ADN-AE-1  # Noise Detection Sensor
+      ├── /MN-AE     # Noise Cancellation Speaker
 └── README.md        # Project overview
 ```
 
@@ -56,8 +59,7 @@ git submodule update
 
 ## Documentation
 
-Detailed documentation can be found here.
-(TODO: hyperlink)
+Detailed documentation can be found [here](https://github.com/Open-Source-SW/EchoShield/tree/master/docs).
 
 <br/>
 
