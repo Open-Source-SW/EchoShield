@@ -23,11 +23,11 @@ This project leverages oneM2M standards to develop a noise cancellation system t
 ```
 ├── /docs            # Documentation
 ├── /entity
+      ├── /ADN-AE-1  # Noise Detection Sensor
+      ├── /ADN-AE-2  # Noise Cancellation Speaker
       ├── /IN-CSE    # oneM2M gateway
       ├── /MN-CSE    # oneM2M cloud service
       ├── /MN-AE
-      ├── /ADN-AE-1  # Noise Detection Sensor
-      ├── /MN-AE     # Noise Cancellation Speaker
 └── README.md        # Project overview
 ```
 
